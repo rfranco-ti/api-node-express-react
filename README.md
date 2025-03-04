@@ -110,12 +110,13 @@ Além do conteúdo dos tutoriais, foram implementadas as seguintes melhorias par
 
 Capturas de tela da aplicação do tutorial:
 
-![Front-end base do video](../prints/front_end_projeto_base.png)
+![Front-end base do video](https://github.com/user-attachments/assets/1a9e22ed-aec7-4c77-ab2a-ec7c02516920)
 
 Capturas de tela da aplicação:
 
-![Front-end - Tela de Cadastro - Final](../prints/front_end_cadastro.png)
-![Front-end - Tela de Listagem - Final](../prints/front_end_listagem.png)
+![Front-end - Tela de Cadastro - Final](https://github.com/user-attachments/assets/b35128a0-4ab4-4e73-9a7e-bab2c8e38453)
+\
+![Front-end - Tela de Listagem - Final](https://github.com/user-attachments/assets/1d4aa351-9746-487c-8f6e-5d5b05522440)
 
 ---
 
@@ -133,3 +134,4 @@ Este projeto foi inspirado nos seguintes tutoriais:
 - [Aprendendo React do Zero, Conectando Back e Front End, e Consumindo API - DevClub](https://www.youtube.com/watch?v=_gHr2Pe5LCY)
 
 ---
+
